@@ -1,4 +1,4 @@
-# Pokémon Data Analysis 🐉
+# Pokémon Data Analysis 
 
 This project explores a dataset of Pokémon using **R** (with `dplyr` and `data.table`).  
 The goal was to practice data manipulation, summarization, and insights extraction.
