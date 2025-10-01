@@ -20,7 +20,8 @@ The goal was to practice data manipulation, summarization, and insights extracti
 ---
 
 ## 🛠 Tools & Libraries
-- **R**  
+- **R**
+- **Jupyter Notebook**  
 - Libraries: `dplyr`, `data.table`
 
 ---
