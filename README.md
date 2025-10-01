@@ -19,22 +19,21 @@ The goal was to practice data manipulation, summarization, and insights extracti
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - **R**
 - **Jupyter Notebook**  
 - Libraries: `dplyr`, `data.table`
 
 ---
 
-## 📂 Files
-- `data/Quiz_Pokemon.csv` → Dataset  
-- `code/pokemon_analysis.R` → Main analysis script  
-- `results/output.txt` → (Optional) Saved results  
+## Files
+- `pokemon_dataset.csv' → Dataset  
+- `pokemon_code_R` → Main analysis script  
+- `Pokemon_R_output` →  Saved results  
 
 ---
 
-## ✅ Example Insights
+## Example Insights
 - There are **65 Legendary Pokémon** in the dataset.  
 - The strongest Pokémon by Attack is of type **Dragon**.  
 - The slowest average Speed Pokémon type is **Rock**.  
-- Custom Pokémon Value scores identified **[Pokémon Name]** as having the lowest overall value.  
